@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uang Saku</string>
+    <string-array name="typeTransaction">
+        <item>income</item>
+        <item>expense</item>
+    </string-array>
+</resources>
